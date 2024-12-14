@@ -1,4 +1,4 @@
-class HogwartsStudent {
+class HogwartsStudent  {
     private String name;
     private int magicPower;
     private int transgressionDistance;
